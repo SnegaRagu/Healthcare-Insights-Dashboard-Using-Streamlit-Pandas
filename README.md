@@ -4,6 +4,17 @@
 
   Healthcare Insights Dashboard project aimed at an user-friendly streamlit application, providing insights about patient demographics, treatment patterns, and facility utilization from the healthcare dataset. The extracted data is stored in MYSQL database and made accessible for efficient querying, analysis and explored with streamlit application.
 
+**Project Overview**
+
+  Healthcare Insights Dashboard project has the following components
+
+  * Data preprocessing of healthcare dataset using pandas
+  * Database integration of MYSQL Server
+  * Streamlit user-friendly dashboard application
+  * Implementing features for efficient filtering and querying
+  * Data visualization of interactively extracted data
+  * Provide healthcare data analytics and insights from the data
+
 **Table of Contents**
 
   1) Key Technologies
